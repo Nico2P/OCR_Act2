@@ -1,5 +1,8 @@
+# Script en Python d'un mini jeu en console de touché coulé très simpliste
+
 from random import randint
 
+# Plateau vide
 plateau = []
 
 for x in range(0, 5):
